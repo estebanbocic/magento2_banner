@@ -2,8 +2,9 @@
 
 <h3>Description</h3>
 <p>
-	This is an example module only for testing purposes. Compatible with Magento 2.2.x+.
+	This is an example module only for testing purposes. Compatible with Magento 2.2.x+. and image from docker.io
 </p>
+<p>Docker image: https://cloud.docker.com/repository/docker/ebocic/magento2test/</p>
 <p>
 	Create banners on module section available on admin panel.
 	Create Widget "banner slider" to call the banners created.
