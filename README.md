@@ -16,19 +16,8 @@
 Create under magento root folder this folders: <br/>
 <strong>/app/code/EstebanBocic/Test</strong><br><br>
 In the docker .yml file change the volume line to attach this repository.Then rebuild.
-
-<h3>Enable Module</h3>
-<ul>
-<li>
-<strong>Enable Module</strong>
-<pre>bin/magento module:enable EstebanBocic_Test</pre></li>
-<li>
-<strong>Setup Upgrade</strong>
-<pre>bin/magento setup:upgrade</pre></li>
-<li>
-<strong>Re-Compile (if necesseary)</strong>
-	<pre>bin/magento setup:di:compile</pre>
-</li>
-</ul>
+<p> Magento admin route: /admin</p>
+<p> Magento user: admin</p>
+<p> Magento pass: magento123 </p>
 
 
