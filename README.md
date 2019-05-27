@@ -7,7 +7,7 @@
 <p>Docker image: https://cloud.docker.com/repository/docker/ebocic/magento2test/</p>
 <p>
 	Create banners on module section available on admin panel.
-	Create Widget "banner slider" to call the banners created.
+	Create Widget "Banners" to call the banners created on Esteban Bocic Banner Manager.
 	Widget design capability determines where you can show the banners on storefront.
 </p>
 
