@@ -14,7 +14,8 @@
 
 <h3>Installation</h3>
 Create under magento root folder this folders: <br/>
-<strong>/app/code/EstebanBocic/Test</strong>
+<strong>/app/code/EstebanBocic/Test</strong><br><br>
+In the docker .yml file change the volume line to attach this repository.Then rebuild.
 
 <h3>Enable Module</h3>
 <ul>
